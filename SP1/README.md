@@ -16,4 +16,4 @@ https://www.kaggle.com/sanjeetsinghnaik/top-1000-highest-grossing-movies
 
 Da min kode ligger i en notebook, skal man blot køre hele notebooken ("sp1.ipynb") for at eksekvere min kode.
 
-Af de 4 opgaver nåede jeg  
+Af de 4 opgaver nåede jeg 3. Den 4. opgave blev jeg ikke færdig med at løse, da genrene skabte en del problemer.

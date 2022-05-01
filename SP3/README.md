@@ -33,4 +33,4 @@ from keras import optimizers
 model = model.Sequential()
 ```
 
-Da min kode ligger i en notebook, skal man blot køre hele notebooken ("sp2.ipynb") for at eksekvere min kode.
+Da min kode ligger i en notebook, skal man blot køre hele notebooken ("SP3.ipynb") for at eksekvere min kode.
